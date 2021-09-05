@@ -32,7 +32,7 @@ From the first terminal send a list of numbers:
 ```
 Chat.send_list(:second@localhost, [1,2,3,4,5,6,7,8])
 ```
-Second node will calculate the sum and return #36.
+Second node will calculate the sum and return # 36.
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
